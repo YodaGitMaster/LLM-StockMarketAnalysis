@@ -10,3 +10,4 @@ Financial news articles play a crucial role in driving stock market trends, ofte
 ## References:
 - https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/
 - https://www.theregister.com/2023/04/18/large_language_models_like_chatgpt/
+- https://community.wolfram.com/groups/-/m/t/2959055
