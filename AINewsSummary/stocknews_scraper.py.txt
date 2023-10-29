@@ -1,0 +1,7 @@
+scrape_and_insert_titles->load_webpage_with_random_user_agent: URL (str)
+scrape_and_insert_titles<--load_webpage_with_random_user_agent: webdriver.Chrome
+note over load_webpage_with_random_user_agent:Loads a webpage with a random user-agent using Selenium.
+scrape_and_insert_titles->BeautifulSoup: 
+open_links->load_webpage_with_random_user_agent: URL (str)
+open_links<--load_webpage_with_random_user_agent: webdriver.Chrome
+note over load_webpage_with_random_user_agent:Loads a webpage with a random user-agent using Selenium.
